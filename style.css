@@ -1,0 +1,19 @@
+body{
+    background: #fd7d7d;
+    color:white;
+    font-family: Helvetica;
+    font-size: x-large;
+}
+h1{
+    color:black;
+    font-family: cursive;
+    font-size: x-large;
+}
+button{
+    background-color: #a393bf;
+    font-family: sans-serif;
+}
+div{
+    color:black;
+        font-family: cursive;
+}
